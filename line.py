@@ -9,10 +9,10 @@ def line():
     P1 = [X1,Y1]
     P2 = [X2,Y2]
     D = math.dist(P1,P2)
-    print (f"El coeficiente A de su ecuación de la recta es: {A}")
-    print (f"El coeficiente B de su ecuación de la recta es: {B}")
-    print (f"El coeficiente X1 de su ecuación de la recta es: {X1}")
-    print (f"El coeficiente X2 de su ecuación de la recta es: {X2}")
+    print(f"El coeficiente A de su ecuación de la recta es: {A}")
+    print(f"El coeficiente B de su ecuación de la recta es: {B}")
+    print(f"El coeficiente X1 de su ecuación de la recta es: {X1}")
+    print(f"El coeficiente X2 de su ecuación de la recta es: {X2}")
     print()
     print(f"Para la siguiente ecuación:\n\tY = {A}X + {B}")
     print()
